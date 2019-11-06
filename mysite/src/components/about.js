@@ -14,7 +14,8 @@ I have worked as a key technical member in various multi-million dollar successf
 </p>
 <p>
 In the last 5 years, I have been associating myself with emerging technologies & concepts like Public Cloud (Amazon Web Service), Serverless, Service Oriented Architecture, Microservice, API, SCA, Event-Driven, Event Sourcing, Load Balancing, TDD, Agile methodologies, etc.
-✔I am a certified AWS Solution Architect at Professional level ♛.
+</p>
+<p><strong>✔I am a certified AWS Solution Architect at Professional level ♛.</strong>
 </p>
 <p>
 I love exploring various OSS like Pivotal, Netflix, HashiCorp, Troposphere, etc.
