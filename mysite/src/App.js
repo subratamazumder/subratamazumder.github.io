@@ -5,10 +5,13 @@ import './App.css';
 import Footer from "./components/footer"
 import Header from "./components/header"
 function App() {
+  var imageStyles = {
+    width: '100%',
+  };
   return (
     <div>
       {/* <Header></Header> */}
-      <Image src={resume} alt="Subrata's resume" fluid rounded/>
+      <Image src={resume} alt="Subrata's resume" fluid rounded style={imageStyles}/>
       {/* <Footer></Footer> */}
     </div>
   );
