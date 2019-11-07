@@ -32,7 +32,7 @@ function SiteNavbar() {
       <Nav.Link href="#home">Home</Nav.Link>
       <Nav.Link href="#about">About</Nav.Link>
       <Nav.Link href="#skills">Proficiency</Nav.Link>
-      <Nav.Link href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/ResumeNov2019.pdf">Resume</Nav.Link>
+      <Nav.Link href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_092019.pdf">Resume</Nav.Link>
     </Nav>
     {/* <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end"> */}
       {/* <Nav> */}
