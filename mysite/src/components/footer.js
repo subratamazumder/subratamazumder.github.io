@@ -15,7 +15,7 @@ function Footer() {
             Subrata Mazumder
           </a>
         </Nav>
-        <Nav pullRight>
+        {/* <Nav pullRight>
         Powered By &nbsp;<Image
             src={ReactBootstrapLogo}
             alt="React Bootstrap"
@@ -33,7 +33,30 @@ function Footer() {
             width="30"
             height="30"
           />
-          </Nav.Link> */}
+          </Nav.Link> 
+        </Nav> */}
+      </Navbar>
+      <Navbar bg="dark" variant="dark" sticky="bottom">
+        <Nav>
+        {/* Powered By &nbsp;<Image
+            src={ReactBootstrapLogo}
+            alt="React Bootstrap"
+            fluid
+            rounded
+            width="30"
+            height="30"
+          /> */}
+          Powered By &nbsp; {" "}
+           <Nav.Link href="https://react-bootstrap.github.io/">
+            <Image
+            src={ReactBootstrapLogo}
+            alt="React Bootstrap"
+            fluid
+            rounded
+            width="30"
+            height="30"
+          />
+          </Nav.Link>
         </Nav>
       </Navbar>
     </div>
