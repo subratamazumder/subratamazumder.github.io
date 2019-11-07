@@ -18,7 +18,7 @@ In the last 5 years, I have been associating myself with emerging technologies &
 <p><strong>✔I am a certified AWS Solution Architect at Professional level ♛.</strong>
 </p>
 <p>
-I love exploring various OSS like Pivotal, Netflix, HashiCorp, Troposphere, etc.
+I love exploring various OSS like Pivotal, Netflix, HashiCorp, Troposphere, Flutter etc.
 Being a programmer, I have learned various programming languages like Javascript, Python, GoLang, Dart on top of my primary programming skill Java.
 </p>
 <p>
