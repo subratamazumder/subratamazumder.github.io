@@ -8,6 +8,10 @@ import LinkedInLogo from '../204340_linkedin-logo-png.png'
 import Image from 'react-bootstrap/Image'
 import Jumbotron from "react-bootstrap/Jumbotron";
 function SiteNavbar() {
+  var imageStyles = {
+    width: '30',
+    height: '30',
+  };
   return (
     <Navbar bg="dark" variant="dark" fixed="top" expand="lg">
     <Navbar.Brand href="#home">
