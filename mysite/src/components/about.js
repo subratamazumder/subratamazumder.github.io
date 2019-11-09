@@ -1,5 +1,6 @@
 import React from 'react';
 import Jumbotron from "react-bootstrap/Jumbotron";
+import Alert from 'react-bootstrap/Alert';
 function About() {
   var imageStyles = {
     width: '100%',
@@ -27,9 +28,10 @@ I have been a consistent follower of various technical conferences either in per
 <p>
 Other than technology, I also have a huge interest in exploring the human body, human health & of course Newtonian physics ♡
 </p>
-<p>
-★★“continuous learning & unlearning is the key to a satisfying life experience”★★ </p>
 </Jumbotron>
+<Alert variant='success' className="text-center">
+<h3><i><q>continuous learning & unlearning is <strong>THE key</strong> to a satisfying life experience</q></i></h3>
+  </Alert>
     </div>
   );
 } 
