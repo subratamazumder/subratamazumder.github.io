@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import brand from '../dp.gif';
+import BrandLogo from '../dp-logo.png';
 import GithubLogo from '../GitHub-Mark-Light-120px-plus.png'
 import LinkedInLogo from '../204340_linkedin-logo-png.png'
 
@@ -17,7 +17,7 @@ function SiteNavbar() {
     <Navbar.Brand href="#home">
       <img
         alt=""
-        src={brand}
+        src={BrandLogo}
         width="30"
         height="30"
         className="d-inline-block align-top"
