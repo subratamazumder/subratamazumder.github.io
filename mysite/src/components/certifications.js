@@ -1,22 +1,17 @@
 import React from "react";
-import AWSCertLogoSAP from "../certificates/AWS_Certified_Logo__SolutionsArchitect_Professional_1176x600-Color.png";
-import AWSCertLogo from "../certificates/AWS_Certified_Logo_1176x600_Color.png";
+import AWSCertLogoSAP from "../certificates/AWS-Certified_Solutions-Architect_Professional_512x512.png";
+import AWSCertLogoSAA from "../certificates/AWS-Certified_Solutions-Architect_Associate_512x512.png";
+import AWSCertLogoDVA from "../certificates/AWS-Certified_Developer_Associate_512x512.png";
+import AWSCertLogoSOA from "../certificates/AWS-Certified_Sysops-Administrator_Associate_512x512.png";
 import Image from "react-bootstrap/Image";
-import Table from "react-bootstrap/Table";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
 function Certifications() {
-  var imageStylesCert = {
-    width: "40%",
-    
-  };
   var imageStyles = {
-    width: "100%",
-    height: "100%"
+    width: "75%",
+    height: "75%"
   };
   return (
     <div id="Certifications" className="text-white text-center">
-      <Navbar bg="light" variant="dark">
+      {/* <Navbar bg="light" variant="dark">
         <Nav className="navbar-text">
         <Image
                 src={AWSCertLogo}
@@ -27,47 +22,47 @@ function Certifications() {
               />
               
         </Nav>
-      </Navbar>
+      </Navbar> */}
       {/* col-md-12 col-sm-12 col-xs-12 */}
-      
-      <div className="row d-flex align-items-center">
-                <div className="col-sm-3 col-md-3 col-lg-2 text-center">
-                <Image
-                src={AWSCertLogoSAP}
-                alt="Subrata's skill"
-                fluid
-                rounded
-                style={imageStyles}
-              />
-                </div>
-                <div className="col-sm-3 col-md-3 col-lg-2 text-center">
-                <Image
-                src={AWSCertLogoSAP}
-                alt="Subrata's skill"
-                fluid
-                rounded
-                style={imageStyles}
-              />
-                </div>
-                <div className="col-sm-3 col-md-3 col-lg-2 text-center">
-                <Image
-                src={AWSCertLogoSAP}
-                alt="Subrata's skill"
-                fluid
-                rounded
-                style={imageStyles}
-              />
-                </div>
-                <div className="col-sm-3 col-md-3 col-lg-2 text-center">
-                <Image
-                src={AWSCertLogoSAP}
-                alt="Subrata's skill"
-                fluid
-                rounded
-                style={imageStyles}
-              />
-                </div>
-            </div>
+
+      <div className="row d-flex align-items-center bg-dark">
+        <div className="col-sm-3 col-md-3 col-lg-3 text-center">
+          <Image
+            src={AWSCertLogoSAP}
+            alt="Subrata's skill"
+            fluid
+            rounded
+            style={imageStyles}
+          />
+        </div>
+        <div className="col-sm-3 col-md-3 col-lg-3 text-center">
+          <Image
+            src={AWSCertLogoSAA}
+            alt="Subrata's skill"
+            fluid
+            rounded
+            style={imageStyles}
+          />
+        </div>
+        <div className="col-sm-3 col-md-3 col-lg-3 text-center">
+          <Image
+            src={AWSCertLogoSOA}
+            alt="Subrata's skill"
+            fluid
+            rounded
+            style={imageStyles}
+          />
+        </div>
+        <div className="col-sm-3 col-md-3 col-lg-3 text-center">
+          <Image
+            src={AWSCertLogoDVA}
+            alt="Subrata's skill"
+            fluid
+            rounded
+            style={imageStyles}
+          />
+        </div>
+      </div>
     </div>
   );
 }

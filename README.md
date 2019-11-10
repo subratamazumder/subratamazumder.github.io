@@ -1,2 +1,2 @@
-This repo contains source for my personal website
+This repo contains source for Subrata Mazumder's personal website
 https://subratamazumder.github.io/
