@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b100e6da.chunk.css",
+    "main.js": "/static/js/main.17334640.chunk.js",
+    "main.js.map": "/static/js/main.17334640.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a6be4de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a6be4de.js.map",
+    "static/css/2.833dd627.chunk.css": "/static/css/2.833dd627.chunk.css",
+    "static/js/2.f60fbd3e.chunk.js": "/static/js/2.f60fbd3e.chunk.js",
+    "static/js/2.f60fbd3e.chunk.js.map": "/static/js/2.f60fbd3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f8013b7da65ef9de903de181a3588d5.js": "/precache-manifest.9f8013b7da65ef9de903de181a3588d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
+    "static/media/204340_linkedin-logo-png.png": "/static/media/204340_linkedin-logo-png.30eda404.png",
+    "static/media/AWS-Certified_Sysops-Administrator_Associate_512x512.png": "/static/media/AWS-Certified_Sysops-Administrator_Associate_512x512.c05dcbdb.png",
+    "static/media/dp-logo.png": "/static/media/dp-logo.b49a8088.png",
+    "static/media/react-bootstrap.svg": "/static/media/react-bootstrap.83fe61b0.svg",
+    "static/media/skills.svg": "/static/media/skills.45d2ce1a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6be4de.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.f60fbd3e.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.17334640.chunk.js"
+  ]
+}
