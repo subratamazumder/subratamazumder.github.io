@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
-import NavDropdown from "react-bootstrap/NavDropdown"
+import NavDropdown from "react-bootstrap/NavDropdown";
 import Nav from "react-bootstrap/Nav";
 import BrandLogo from "../dp-logo.png";
 import GithubLogo from "../GitHub-Mark-Light-120px-plus.png";
@@ -26,13 +26,22 @@ function SiteNavbar() {
           <Nav.Link href="#home">Home</Nav.Link>
           <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#skills">Proficiency</Nav.Link>
-          <Nav.Link href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_092019.pdf">
-            Resume
-          </Nav.Link>
+          <NavDropdown title="Resume" id="basic-nav-dropdown-resume" bg="dark" >
+            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_092019.pdf">
+              OnePager
+            </NavDropdown.Item>
+            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/ResumeDetail2019.pdf">
+              Detailed
+            </NavDropdown.Item>
+          </NavDropdown>
           <NavDropdown title="Applications" id="basic-nav-dropdown">
-        <NavDropdown.Item href="https://subrata.dev/notepad/">MyNotepad</NavDropdown.Item>
-        <NavDropdown.Item href="http://dev-scp-reward-app.s3-website.ap-south-1.amazonaws.com/">Gold Price Calculator</NavDropdown.Item>
-      </NavDropdown>
+            <NavDropdown.Item href="https://subrata.dev/notepad/">
+              MyNotepad
+            </NavDropdown.Item>
+            <NavDropdown.Item href="http://dev-scp-reward-app.s3-website.ap-south-1.amazonaws.com/">
+              Gold Price Calculator
+            </NavDropdown.Item>
+          </NavDropdown>
         </Nav>
 
         <Nav.Link href="https://github.com/subratamazumder">
