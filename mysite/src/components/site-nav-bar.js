@@ -42,6 +42,11 @@ function SiteNavbar() {
               Gold Price Calculator
             </NavDropdown.Item>
           </NavDropdown>
+          <NavDropdown title="Solutions" id="basic-nav-dropdown">
+            <NavDropdown.Item href="https://subrata.dev/event-driven-architecture/">
+              Serverless Event Driven Architecture
+            </NavDropdown.Item>
+          </NavDropdown>
         </Nav>
 
         <Nav.Link href="https://github.com/subratamazumder">
