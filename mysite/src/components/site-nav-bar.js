@@ -46,6 +46,17 @@ function SiteNavbar() {
             <NavDropdown.Item href="https://subrata.dev/event-driven-architecture/">
               Serverless Event Driven Architecture
             </NavDropdown.Item>
+            <NavDropdown.Item href="https://github.com/subratamazumder/pdf-utility-java/blob/master/README.md">
+              Java PDF Merger
+            </NavDropdown.Item>
+          </NavDropdown>
+          <NavDropdown title="POC" id="basic-nav-dropdown">
+            <NavDropdown.Item href="https://github.com/subratamazumder/nginx-poc/blob/master/README.md">
+              Nginx TLS & MTLS
+            </NavDropdown.Item>
+            <NavDropdown.Item href="https://github.com/subratamazumder/tyk-poc/blob/master/README.md">
+              TYK API Gateway MTLS
+            </NavDropdown.Item>
           </NavDropdown>
         </Nav>
 
