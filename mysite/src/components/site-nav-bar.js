@@ -35,6 +35,9 @@ function SiteNavbar() {
             </NavDropdown.Item>
           </NavDropdown>
           <NavDropdown title="Applications" id="basic-nav-dropdown">
+          <NavDropdown.Item href="https://subrata.dev/covid19/">
+              COVID19 World Stats
+            </NavDropdown.Item>
             <NavDropdown.Item href="https://subrata.dev/notepad/">
               MyNotepad
             </NavDropdown.Item>
