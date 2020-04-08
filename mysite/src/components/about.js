@@ -1,10 +1,14 @@
 import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Alert from "react-bootstrap/Alert";
+import Navbar from 'react-bootstrap/Navbar'
 function About() {
   return (
     <div id="about">
-      <Jumbotron className="bg-white ">
+      <Navbar bg="light" expand="lg">
+        <h3>About</h3>
+      </Navbar>
+      <Jumbotron className="bg-white">
         <h4>
           <p>
             It was 1998 when for the first time I was introduced to a computer

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6128938e3826a27c62776972612d7482",
+    "revision": "697d639523ea6658a0fe2d82da151c09",
     "url": "/index.html"
   },
   {
-    "revision": "3a50e10915dc946d0100",
+    "revision": "6c39d43913599e58b4fa",
     "url": "/static/css/2.833dd627.chunk.css"
   },
   {
-    "revision": "fdbc625e6023bb53ad97",
+    "revision": "7823b3360a14b898e27b",
     "url": "/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "3a50e10915dc946d0100",
-    "url": "/static/js/2.771a4478.chunk.js"
+    "revision": "6c39d43913599e58b4fa",
+    "url": "/static/js/2.1c5ea3b6.chunk.js"
   },
   {
-    "revision": "fdbc625e6023bb53ad97",
-    "url": "/static/js/main.70425126.chunk.js"
+    "revision": "7823b3360a14b898e27b",
+    "url": "/static/js/main.dde36d2e.chunk.js"
   },
   {
     "revision": "53fb5f2a5c362a92d31e",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c05dcbdb7037ebbc301d5b403b2db852",
     "url": "/static/media/AWS-Certified_Sysops-Administrator_Associate_512x512.c05dcbdb.png"
+  },
+  {
+    "revision": "3ea2270c3e2c702c0e028596a33acd47",
+    "url": "/static/media/EDAConcept.3ea2270c.svg"
+  },
+  {
+    "revision": "74027a2d0a9f0cee8204cf571371cff4",
+    "url": "/static/media/covid19.74027a2d.png"
   },
   {
     "revision": "b49a8088f80b54862308a5ccc76ab91d",

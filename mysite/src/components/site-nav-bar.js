@@ -25,7 +25,8 @@ function SiteNavbar() {
         <Nav className="mr-auto">
           <Nav.Link href="#home">Home</Nav.Link>
           <Nav.Link href="#about">About</Nav.Link>
-          <Nav.Link href="#skills">Proficiency</Nav.Link>
+          <Nav.Link href="#skills">Skills</Nav.Link>
+          <Nav.Link href="#blogs">Blogs</Nav.Link>
           <NavDropdown title="Resume" id="basic-nav-dropdown-resume" bg="dark" >
             <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_092019.pdf">
               OnePager
