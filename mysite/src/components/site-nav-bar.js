@@ -27,7 +27,7 @@ function SiteNavbar() {
           <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#skills">Skills</Nav.Link>
           <Nav.Link href="#blogs">Blogs</Nav.Link>
-          <NavDropdown title="Resume" id="basic-nav-dropdown-resume" bg="dark" >
+          <NavDropdown title="Resume" id="basic-nav-dropdown-resume" bg="dark">
             <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_092019.pdf">
               OnePager
             </NavDropdown.Item>
@@ -36,8 +36,11 @@ function SiteNavbar() {
             </NavDropdown.Item>
           </NavDropdown>
           <NavDropdown title="Applications" id="basic-nav-dropdown">
-          <NavDropdown.Item href="https://subrata.dev/covid19/">
+            <NavDropdown.Item href="https://subrata.dev/covid19/">
               COVID19 World Stats
+            </NavDropdown.Item>
+            <NavDropdown.Item href="https://github.com/subratamazumder/billion-user-app">
+              A Billion User App (in progress)
             </NavDropdown.Item>
             <NavDropdown.Item href="https://subrata.dev/notepad/">
               MyNotepad
