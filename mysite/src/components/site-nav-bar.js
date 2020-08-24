@@ -31,7 +31,7 @@ function SiteNavbar() {
             <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_092019.pdf">
               OnePager
             </NavDropdown.Item>
-            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_Detail_092019.pdf">
+            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/ResumeDetail2020.pdf">
               Detailed
             </NavDropdown.Item>
           </NavDropdown>
