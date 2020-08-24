@@ -2,12 +2,7 @@ import React from "react";
 import { CardDeck, Card, Navbar } from "react-bootstrap";
 import EDABlogCardImage from "../EDAConcept.svg";
 import Covid19BlogCardImage from "../covid19.png";
-import Image from "react-bootstrap/Image";
 function Blogs() {
-  var imageStyles = {
-    width: "75%",
-    height: "75%",
-  };
   return (
     <div id="blogs" className="text-center">
       <Navbar bg="light" expand="lg">
