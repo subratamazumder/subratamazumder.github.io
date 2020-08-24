@@ -32,7 +32,7 @@ function About() {
           <p>
             In the last 5 years, I have been associating myself with emerging
             technologies & concepts like Public Cloud (Amazon Web Service),
-            Serverless, Service Oriented Architecture, Microservice, API, SCA,
+            Serverless, Service Oriented Architecture, Microservice, Service Mesh, API, SCA,
             Event-Driven, Event Sourcing, Load Balancing, TDD, Agile
             methodologies, etc.
           </p>
