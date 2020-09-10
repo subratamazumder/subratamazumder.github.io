@@ -50,6 +50,9 @@ function SiteNavbar() {
             </NavDropdown.Item>
           </NavDropdown>
           <NavDropdown title="Solutions" id="basic-nav-dropdown">
+            <NavDropdown.Item href="https://github.com/subratamazumder/local-alb-lambda">
+              Mocking AWS ALB-Lambda for Local Testing
+            </NavDropdown.Item>
             <NavDropdown.Item href="https://subrata.dev/event-driven-architecture/">
               Serverless Event Driven Architecture
             </NavDropdown.Item>
