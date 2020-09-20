@@ -39,6 +39,9 @@ function SiteNavbar() {
             <NavDropdown.Item href="https://subrata.dev/covid19/">
               COVID19 World Stats
             </NavDropdown.Item>
+            <NavDropdown.Item href="https://github.com/subratamazumder/react-amplified/blob/master/README.md">
+              React ToDo App AWS AppSync GraphQL
+            </NavDropdown.Item>
             <NavDropdown.Item href="https://github.com/subratamazumder/billion-user-app">
               A Billion User App (in progress)
             </NavDropdown.Item>
