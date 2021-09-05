@@ -2,6 +2,7 @@ import React from "react";
 import { CardDeck, Card, Navbar } from "react-bootstrap";
 import EDABlogCardImage from "../EDAConcept.svg";
 import Covid19BlogCardImage from "../covid19.png";
+import MTLSBlogCardImage from "../api-mtls.svg";
 function Blogs() {
   return (
     <div id="blogs" className="text-center">
@@ -10,6 +11,18 @@ function Blogs() {
       </Navbar>
       
       <CardDeck>
+      <Card style={{ width: "18rem" }}>
+          <Card.Img variant="top" src={MTLSBlogCardImage} />
+          <Card.Body>
+            <Card.Title>Serverless API with mTLS</Card.Title>
+            <Card.Link href="https://www.linkedin.com/pulse/expose-your-serverless-api-more-confidently-b2b-mtls-subrata-mazumder/">
+            Expose your Serverless API more confidently for B2B with mTLS
+            </Card.Link>
+          </Card.Body>
+          <Card.Footer>
+            <small className="text-muted">Published on July 2021</small>
+          </Card.Footer>
+        </Card>
         <Card style={{ width: "18rem" }}>
           <Card.Img variant="top" src={EDABlogCardImage} />
           <Card.Body>
