@@ -27,12 +27,9 @@ function SiteNavbar() {
           <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#skills">Skills</Nav.Link>
           <Nav.Link href="#blogs">Blogs</Nav.Link>
-          <NavDropdown title="Resume" id="basic-nav-dropdown-resume" bg="dark">
-            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Resume_Subrata_092019.pdf">
-              OnePager
-            </NavDropdown.Item>
-            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/ResumeDetail2020.pdf">
-              Detailed
+          <NavDropdown title="Resume/CV" id="basic-nav-dropdown-resume" bg="dark">
+            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Subrata_Architect_CV_2021.pdf">
+              Architect CV (Grayscale)
             </NavDropdown.Item>
           </NavDropdown>
           <NavDropdown title="Applications" id="basic-nav-dropdown">
