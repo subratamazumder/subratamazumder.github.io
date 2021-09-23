@@ -27,11 +27,7 @@ function SiteNavbar() {
           <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#skills">Skills</Nav.Link>
           <Nav.Link href="#blogs">Blogs</Nav.Link>
-          <NavDropdown title="Resume/CV" id="basic-nav-dropdown-resume" bg="dark">
-            <NavDropdown.Item href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Subrata_Architect_CV_2021.pdf">
-              Architect CV (Grayscale)
-            </NavDropdown.Item>
-          </NavDropdown>
+          <Nav.Link href="https://s3-ap-s1-subrata-public.s3.ap-south-1.amazonaws.com/Subrata_Mazumder_CV_2021.pdf">Resume/CV</Nav.Link>
           <NavDropdown title="Applications" id="basic-nav-dropdown">
             <NavDropdown.Item href="https://subrata.dev/covid19/">
               COVID19 World Stats
