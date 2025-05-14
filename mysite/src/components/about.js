@@ -15,26 +15,29 @@ function About() {
             with a keyboard and taught to draw a triangle using Logo programming
             language. Since then my passion for programming became an instinct.
             Fast forward ➟ 8 years, I graduated ♟ from an estimated university
-            as a Computer Science Engineer with ~4 years of experience in C
-            programming. In the year 2006, I started my professional career as a
-            ♞ Software Developer in one of the top 5 Indian IT companies. In my
-            ~13 years of enriching work experiences, I have been given many
+            as a Computer Science Engineer. In the year 2006, I started my professional
+            career as a ♞ Software Developer in one of the top 5 Indian IT companies.
+            In my <b>~19 years</b> of enriching work experiences, I have been given many
             wonderful opportunities to learn & grow as an IT professional.
           </p>
           <p>
-            I have played various roles ♝ like Developer, Technical Lead, SME,
-            External Reviewer, Member of Project Recovery Team, SOA Architect,
-            Cloud Architect, Software Engineering Manager, etc. I have worked as
-            a key technical member in various multi-million dollar successful
-            transformation projects related to Banking, PSD2, Publishing,
-            Logistics, Transport domains.
+            <strong>
+              ✔I have 10+ years of working experince in the UK.
+            </strong>
           </p>
           <p>
-            In the last 5 years, I have been associating myself with emerging
-            technologies & concepts like Public Cloud (Amazon Web Service),
-            Serverless, Service Oriented Architecture, Microservice, Service Mesh, API, SCA,
-            Event-Driven, Event Sourcing, Load Balancing, TDD, Agile
-            methodologies, etc.
+            I have played various roles ♝ like <b>Developer, Technical Lead, SME,
+            External Reviewer, Member of Project Recovery Team, SOA Architect,
+            Cloud Architect, Software Engineering Manager, DevOps Engineer</b> etc. I have worked as
+            a key technical member in various multi-million dollar successful
+            transformation projects related to <b>Healthcare, Banking, PSD2, Publishing,
+            Logistics, Transport</b> domains.
+          </p>
+          <p>
+            In the last 10 years, I have been associating myself with emerging
+            technologies & concepts like <b>Public Cloud (Amazon Web Service), IaC, CI-CD,
+            Serverless, Service Oriented Architecture, Microservice, Service Mesh, API,
+            Event-Driven, Load Balancing, TDD, Shifting Left, Agile methodologies, ShapeUp appraoch</b> etc.
           </p>
           <p>
             <strong>
@@ -42,16 +45,13 @@ function About() {
             </strong>
           </p>
           <p>
-            I love exploring various OSS like Pivotal, Netflix, HashiCorp,
-            Troposphere, Flutter etc. Being a programmer, I have learned various
-            programming languages like Javascript, Python, GoLang, Dart on top
-            of my primary programming skill Java.
+            I enjoy following process, designing solution, automating pipelines, building infrastucture following IaC principals.
           </p>
           <p>
             I have been a consistent follower of various technical conferences
-            either in person or via live streaming or YouTube like AWS
+            either in person or via live streaming or YouTube like <b>AWS
             re:Invent, AWS Summit, AWS Community Day, AWS Innovate, Devoox,
-            Google I/O, Kafka Summit, Spring I/O, AWS MeetUps, etc.
+            Google I/O, Kafka Summit, Spring I/O, AWS MeetUps,</b> etc.
           </p>
           <p>
             Other than technology, I also have a huge interest in exploring the
