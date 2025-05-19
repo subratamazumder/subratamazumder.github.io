@@ -27,7 +27,7 @@ function SiteNavbar() {
           <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#skills">Skills</Nav.Link>
           <Nav.Link href="#blogs">Blogs</Nav.Link>
-          <Nav.Link href="https://s3-euw2-subrata-public.s3.eu-west-2.amazonaws.com/Subrata_Mazumder_CV_2021.pdf">Resume/CV</Nav.Link>
+          <Nav.Link href="https://s3-euw2-subrata-public.s3.eu-west-2.amazonaws.com/Subrata_Mazumder_CV_DevOps.pdf">Resume/CV</Nav.Link>
           <NavDropdown title="Applications" id="basic-nav-dropdown">
             <NavDropdown.Item href="https://subrata.dev/covid19/">
               COVID19 World Stats

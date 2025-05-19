@@ -6,6 +6,7 @@ Not expecting any PR to enhance this, but do feel free to use this as a template
 
 # Dev Flow
 - Make changes in `mysite/src/`
+- `cd mysite`
 - Test `npm install && npm start`
 - Build `npm run build`
 - Commit changes to master
