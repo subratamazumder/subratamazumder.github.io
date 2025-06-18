@@ -14,6 +14,7 @@ function App() {
       <SiteNavbar></SiteNavbar>
       <Home></Home>
       <About></About>
+      
       <Blogs></Blogs>
       <Footer></Footer>
       <CookieNotification></CookieNotification>

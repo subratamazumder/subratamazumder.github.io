@@ -7,6 +7,7 @@ import GithubLogo from "../GitHub-Mark-Light-120px-plus.png";
 import LinkedInLogo from "../204340_linkedin-logo-png.png";
 
 import Image from "react-bootstrap/Image";
+//<Nav.Link href="#skills">Skills</Nav.Link>
 function SiteNavbar() {
   return (
     <Navbar bg="dark" variant="dark" fixed="top" expand="lg">
@@ -25,7 +26,7 @@ function SiteNavbar() {
         <Nav className="mr-auto">
           <Nav.Link href="#home">Home</Nav.Link>
           <Nav.Link href="#about">About</Nav.Link>
-          <Nav.Link href="#skills">Skills</Nav.Link>
+          
           <Nav.Link href="#blogs">Blogs</Nav.Link>
           <Nav.Link href="https://s3-euw2-subrata-public.s3.eu-west-2.amazonaws.com/Subrata_Mazumder_CV_DevOps.pdf">Resume/CV</Nav.Link>
           <NavDropdown title="Applications" id="basic-nav-dropdown">
